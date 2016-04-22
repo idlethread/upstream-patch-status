@@ -1,0 +1,26 @@
+[options]
+default = LKML
+
+[LKML]
+url = https://patchwork.kernel.org/xmlrpc/
+project = LKML
+
+[linux-arm-kernel]
+url = https://patchwork.kernel.org/xmlrpc/
+project = linux-arm-kernel
+
+[linux-acpi]
+url = https://patchwork.kernel.org/xmlrpc/
+project = linux-acpi
+
+[linux-pci]
+url = https://patchwork.kernel.org/xmlrpc/
+project = linux-pci
+
+[kvm]
+url = https://patchwork.kernel.org/xmlrpc/
+project = kvm
+
+[dri-devel]
+url = https://patchwork.kernel.org/xmlrpc/
+project = dri-devel
